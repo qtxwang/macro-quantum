@@ -3,7 +3,9 @@
 A list of quantum effects observed at the macroscopic levels.
 
 1. Entangled diamonds (2011)
+   
    https://www.scientificamerican.com/article/room-temperature-entanglement/
+   
    In the new study, researchers from the University of Oxford, the National Research Council of Canada and 
    the National University of Singapore (NUS) showed that entanglement can also be achieved in macroscopic objects 
    at room temperature. "What we have done is demonstrate that it's possible with more standard, everyday objects—
