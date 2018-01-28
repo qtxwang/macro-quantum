@@ -12,7 +12,9 @@ A list of quantum effects observed at the macroscopic levels.
    if you like—these closely managed objects."
 
 2. A visible quantum drum (2010)
-   Quantum ground state and single-phononcontrol of a mechanical resonator
+  
    http://physicsworld.com/cws/article/news/2010/mar/18/quantum-effect-spotted-in-a-visible-object
+   
+   Quantum ground state and single-phononcontrol of a mechanical resonator
    https://www.nature.com/articles/nature08967.epdf?referrer_access_token=lcdoCrSRIxmHmnSkV2-zctRgN0jAjWel9jnR3ZoTv0Nt1jzSNT935Jsv-fCI93KVtDKgdOAEptkd3ti5ACeNR7GxAFx8rcMkCXp2uaGh-w5Wmo02viZzYnF-6UojGDqxJXg6sYOzDb42tLL9TZTRPdR1iLr_Ka_6PE9Kx9fkvE9HqqEaiZx5OI-FVKa80cchU-aQyV_tQKTVKInQzHJmlPi3SWSC3IunZuEHlzzT0qdOv2WwybLJrYm34_nLetVwAGL4LJC4TzH6uAncpnOpPA%3D%3D&tracking_referrer=physicsworld.com
 
