@@ -1,6 +1,6 @@
 # macro-quantum
 
-A list of quantum effects observed at the macroscopic levels.
+A list of research papers / reports on quantum effects observed at the macroscopic levels.
 
 1. Entangled diamonds (2011)
    
@@ -19,4 +19,9 @@ A list of quantum effects observed at the macroscopic levels.
    
    Quantum ground state and single-phononcontrol of a mechanical resonator
    https://www.nature.com/articles/nature08967.epdf?referrer_access_token=lcdoCrSRIxmHmnSkV2-zctRgN0jAjWel9jnR3ZoTv0Nt1jzSNT935Jsv-fCI93KVtDKgdOAEptkd3ti5ACeNR7GxAFx8rcMkCXp2uaGh-w5Wmo02viZzYnF-6UojGDqxJXg6sYOzDb42tLL9TZTRPdR1iLr_Ka_6PE9Kx9fkvE9HqqEaiZx5OI-FVKa80cchU-aQyV_tQKTVKInQzHJmlPi3SWSC3IunZuEHlzzT0qdOv2WwybLJrYm34_nLetVwAGL4LJC4TzH6uAncpnOpPA%3D%3D&tracking_referrer=physicsworld.com
+   
+3. MACROSCOPIC QUANTUM TUNNELING
+
+http://assets.cambridge.org/97805216/75710/frontmatter/9780521675710_frontmatter.pdf
+
 
