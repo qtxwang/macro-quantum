@@ -36,3 +36,4 @@ A list of articles on quantum effects observed at the macroscopic levels. In no 
    By the time the BEC reaches the top of the chamber, its wave function is a 50-50 mixture of those states, representing    positions 54 centimetres apart. It stays in this superposition for about a second, then falls back down. At the bottom, the lasers turn the two states back into one, and this reveals that the atoms appear to arrive from two different heights, confirming that the BEC was indeed in a superposition at the top of the chamber.
 
 
+A useful quantum circuit simulator Quirk: http://algassert.com/quirk
